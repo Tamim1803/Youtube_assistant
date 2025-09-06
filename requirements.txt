@@ -1,0 +1,7 @@
+numpy
+streamlit
+sentence-transformers
+torch
+groq
+youtube-transcript-api
+pytube

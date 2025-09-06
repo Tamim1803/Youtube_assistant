@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+pytube
+youtube-transcript-api
+torch --index-url https://download.pytorch.org/whl/cpu
